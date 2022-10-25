@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/bQ6Vf.gif)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Wesley Moreira</h1>
 <h3 align="center">A passionate back-end developer from Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
