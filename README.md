@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wezmoreira&label=Profile%20views&color=0e75b6&style=flat" alt="wezmoreira" /> </p>
 
-- 🌱 I’m currently learning **Java, C#**
+- 🌱 I’m currently learning **Java Spring Boot | C# .NET**
 
 - 👯 I’m looking to collaborate on [Apollo70 Filmes](https://github.com/Team-Spring-Alpha)
 
-- 💬 Ask me about **.net, Spring Boot**
+- 💬 Ask me about **.NET, Spring Boot**
 
 - 📫 How to reach me **wesleyrodrigomoreira@gmail.com**
 
