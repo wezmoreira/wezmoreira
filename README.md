@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Java Spring Boot | C# .NET**
 
-- 👯 I’m looking to collaborate on [Apollo70 Filmes](https://github.com/Team-Spring-Alpha)
-
 - 💬 Ask me about **.NET, Spring Boot**
 
 - 📫 How to reach me **wesleyrodrigomoreira@gmail.com**
