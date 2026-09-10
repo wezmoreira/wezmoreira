@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/media/Bx5EzBKpOpypPgfE5s/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Wesley Moreira</h1>
-<h3 align="center">A passionate back-end developer from Brasil</h3>
+<h3 align="center">A passionate Software Engineer from Brasil</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wezmoreira&label=Profile%20views&color=0e75b6&style=flat" alt="wezmoreira" /> </p>
